@@ -1,0 +1,137 @@
+https://igem.org/Team_List?year=2008
+[*]  2008 0
+https://igem.org/Team_List?year=2009
+[+]  CityColSanFrancisco
+[+]  Gaston_Day_School
+[+]  Todai-Tokyo
+[+]  UNICAMP-Brazil
+[+]  UNIPV-Pavia
+[+]  uOttawa
+[*]  2009 6
+https://igem.org/Team_List?year=2010
+[+]  Purdue
+[+]  UIUC-Illinois-Software
+[*]  2010 2
+https://igem.org/Team_List?year=2011
+[+]  Gaston_Day_School
+[+]  HUST-China
+[+]  Missouri_Miners
+[+]  Nevada
+[+]  TzuChiU_Formosa
+[+]  UNITS_Trieste
+[+]  VIT_Vellore
+[*]  2011 7
+https://igem.org/Team_List?year=2012
+[+]  British_Columbia
+[+]  Caltech
+[+]  Columbia-Cooper-NYC
+[+]  Frankfurt
+[+]  HIT-Harbin
+[+]  HUST-China
+[+]  KAIST_Korea
+[+]  Tokyo_Tech
+[+]  UC-Merced
+[+]  UT-Tokyo
+[+]  Washington
+[+]  WHU-China
+[*]  2012 12
+https://igem.org/Team_List?year=2013
+[+]  BIT-China
+[+]  Frankfurt
+[+]  Hong_Kong_HKUST
+[+]  Macquarie_Australia
+[+]  Sumbawagen
+[+]  UCL_Academy
+[+]  Yale
+[*]  2013 7
+https://igem.org/Team_List?year=2014
+[+]  Braunschweig
+[+]  Caltech
+[+]  CityU_HK
+[+]  ITESM-CEM
+[+]  Lambert_GA
+[+]  Macquarie_Australia
+[+]  NTNU_Trondheim
+[+]  NTU_Taida
+[+]  Sumbawagen
+[+]  Tokyo-NoKoGen
+[+]  Tsinghua
+[+]  UiOslo_Norway
+[+]  Warwick
+[+]  WHU-Pharm
+[*]  2014 14
+https://igem.org/Team_List?year=2015
+[+]  AHUT_China
+[+]  Austin_UTexas
+[+]  H4Z-Hangzhou
+[+]  HUST-China
+[+]  NTNU_Trondheim
+[+]  Stony_Brook
+[+]  Tec_Guadalajara
+[+]  TJU
+[+]  Tokyo-NoKoGen
+[+]  UChile-OpenBio
+[+]  UESTC_Software
+[+]  UNAM-CU
+[+]  UNC-Chapel_Hill
+[+]  Virginia
+[+]  WHU-Pharm
+[+]  York
+[*]  2015 16
+https://igem.org/Team_List?year=2016
+[+]  Fudan
+[+]  Gifu
+[+]  Kingsborough_NY
+[+]  Mingdao
+[+]  Missouri_Rolla
+[+]  NCKU_Tainan
+[+]  NTNU_Trondheim
+[+]  TCU_Taiwan
+[+]  Tuebingen
+[+]  UAM_Poznan
+[+]  UCSC
+[+]  UESTC-China
+[+]  UPO-Sevilla
+[*]  2016 13
+https://igem.org/Team_List?year=2017
+[+]  AQA_Unesp
+[+]  CIEI-BJ
+[+]  Gifu
+[+]  Judd_UK
+[+]  Kingsborough_NY
+[+]  ManhattanCol_Bronx
+[+]  Mingdao
+[+]  NortheasternU-Boston
+[+]  NPU-China
+[+]  SDU-Denmark
+[+]  Sydney_Australia
+[+]  Szeged_SA_RMG
+[+]  Tartu_TUIT
+[+]  Tel-Hai
+[+]  Tsinghua
+[+]  UC_San_Diego
+[+]  U_of_Guelph
+[*]  2017 17
+https://igem.org/Team_List?year=2018
+[+]  Athens
+[+]  BNU-China
+[+]  CDHSU-CHINA
+[+]  DLUT_China
+[+]  DLUT_China_B
+[+]  Groningen
+[+]  HAFS
+[+]  HebrewU
+[+]  Hong_Kong_HKUST
+[+]  KAIT_JAPAN
+[+]  KUAS_Korea
+[+]  RHIT
+[+]  TAS_Taipei
+[+]  UIUC_Illinois
+[+]  Unesp_Brazil
+[+]  UofGuelph
+[+]  UPF_CRG_Barcelona
+[+]  Waterloo
+[+]  Westminster_UK
+[+]  XJTU-China
+[+]  Yale
+[*]  2018 21
