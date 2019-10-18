@@ -20,11 +20,14 @@
     color: #212529;
     text-align: justify;
     margin: 0px;}
+
 #content {
-    padding: 0px;
-    margin: 0px;
-    width: 100%;
-}
+    width: 100%!important;
+    padding: 0!important;
+    margin: 0!important;
+    line-height: 1!important;
+    z-index: auto!important;
+    background-color: transparent!important;
 #bodyContent h1,
 #bodyContent h2,
 #bodyContent h3,
@@ -33,7 +36,7 @@
     margin-bottom: 0px;
     border-bottom: none;
 }
-body {background-color:white; }
+body {background-color:white;  margin: 0px;}
 
 #bodyContent {
     padding-right: 0px;
@@ -209,3 +212,5 @@ li  {
 	</div>
 </div>
 ```
++ linear-gradient
+`background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0) 60%); `
