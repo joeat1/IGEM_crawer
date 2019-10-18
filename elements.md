@@ -214,3 +214,7 @@ li  {
 ```
 + linear-gradient
 `background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0) 60%); `
+
++ image-maps
+> https://www.image-maps.com/
+> https://www.image-map.net/
