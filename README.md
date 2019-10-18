@@ -29,3 +29,6 @@ I analyzed the communication process uploaded by igem.org's wiki. In the network
     }
     ```
     The function has been implemented in the function `uploadpage` in the igem_upload.py.
+
+## elements
+Here are some common elements collected.
