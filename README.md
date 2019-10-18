@@ -4,6 +4,9 @@
 Get some team name from the IGEM according to whether the abstracts of work contain the key words
 
 ## igem_upload
+> How to use: please set the following items(username; password; Team_name) in the python script at first.
+> flush_all(session, igem_page_list) #Can refresh all pages
+> uploadpage(session, Team_name, imgfile) #Upload all the images in the selected directory and show the path
 I analyzed the communication process uploaded by igem.org's wiki. In the network message, I found several key URLs.
 + `https://igem.org/Login2`
     Landing sites are required before page modifications, file uploads, or access to information is required.During the login process, the service will perform three page jumps.
