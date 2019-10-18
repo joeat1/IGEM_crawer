@@ -2,11 +2,13 @@
 ## basic setting ##
 
 + css&js style
+> You need to use some personal scripts.
 ```
 <link href="https://2019.igem.org/Template:NUDT_CHINA/bootstrap_css?action=raw&ctype=text/css" rel="stylesheet"/>
 <script type="text/javascript" src="https://2019.igem.org/Template:NUDT_CHINA/bootstrap_js?action=raw&ctype=text/javascript"></script>
 ```
 + common style
+> You need to remove the effects of the original platform's style and unify the basic style of key labels ,such as p,img,li,div.
 ```
 /* ==========================================================================
    Component: The basic settings
@@ -74,6 +76,7 @@ li  {
 
 ## Some useful elements ##
 + carousel
+> Maybe you need a carousel to show the pictures.
 ```
 <div class="carousel slide" id="carousel">
     <ol class="carousel-indicators" style="width:40%">
@@ -108,6 +111,7 @@ li  {
 </div>
 ```
 + Large picture
+> Maybe you need a large picture to cover the screen.
 ```
 <style>
 /* Jumbotron */
@@ -164,6 +168,7 @@ li  {
 </div>
 ```
 + basic container
+> If you use the framework named bootstrap, you need to known the basic construction.
 ```
 <div class="container">
     <div class="row" >
@@ -171,5 +176,36 @@ li  {
             
         </div>
     </div>
+</div>
+```
++ href
+> If you need to set the inner-link, you need to known the style.
+```
+<style>
+.anchorOffset {
+    display: block !important;
+    position: relative !important;
+    top: -80px !important;
+    visibility: hidden !important;
+}
+</style>
+<a href="#Title" style="text-decoration: none;">Title</a>
+....
+....
+<a class="anchorOffset" id="Title" data-scroll-id="Title" tabindex="-1" style="outline: none;"></a>
+<h3>Title</h3>
+```
++ pic
+> If you use the framework named bootstrap, you need to known the way to placing pictures.
+```
+<div class="col-md-12" style="display: -webkit-box;">
+	<div class="col-md-6 thumbnail">
+		<img src="background.jpg">
+		<p style="text-align: center;">Description of the pic </p>
+	</div>
+	<div class="col-md-6 thumbnail">
+		<img src="_background.jpg">
+		<p style=" text-align: center;">Description of the pic </p>
+	</div>
 </div>
 ```
