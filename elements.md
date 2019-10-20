@@ -218,3 +218,4 @@ li  {
 + image-maps
 > https://www.image-maps.com/
 > https://www.image-map.net/
+After you use the image-map , you should to consider how to resizer the image to adpate :https://github.com/davidjbradshaw/image-map-resizer
